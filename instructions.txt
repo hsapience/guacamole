@@ -3,3 +3,4 @@
 - juice 1lime
 - chop 1 jalapeno
 - Mashit all together
+- Add salt
